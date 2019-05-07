@@ -1,10 +1,10 @@
-# Escalonador de Processos
+# Process Scheduler
 
-## Algoritmo Alocação
+## Allocation Algorithm
 ### Round Robin
 ### Least Time to Go
 
-## Algoritmo Memória
+## Memory Algorithm
 ### Best Fit
 ### Quick Fit
 ### Merge Fit
